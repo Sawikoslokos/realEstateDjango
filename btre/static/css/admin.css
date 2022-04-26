@@ -1,0 +1,40 @@
+#header {
+    height: 50px;
+    background: #10284e;
+    color: #fff;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+a:link,
+a.visited {
+    color: #10284e;
+}
+
+div.breadcrumbs {
+    background: #30caa0;
+    color: #10284e;
+}
+div.breadcrumbs a {
+    color: #333;
+}
+div.app-listings caption {
+    background: #10284e;
+    color: #fff;
+}
+div.module caption {
+    background: #10284e;
+    color: #fff;
+}
+
+tr.model-listing {
+    background-color: #fff;
+    color: #10284e;
+}
+
+tr.current-model {
+    background-color: #fff;
+    color: #10284e;
+}
